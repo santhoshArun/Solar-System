@@ -1,4 +1,4 @@
-<h2>Solar-System</h2>
+
 <h3>Graphics C program for the display of Solar System with weight conversion</h3>
 <p>You can convert your weight with respective planet by clicking weight conversion at the right bottom end of the run time screen and enter your weight and click 'Enter'. Now click on any planet to show your weight at the last line of the planet details.</>
 <p>Download the zip, extract and run the program or copy code from Solars~.c and run the program.</p>
